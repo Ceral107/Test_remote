@@ -1,0 +1,2 @@
+for how to configure your .gitconfig file for better git handling see
+https://github.com/mlechner/configs/blob/master/gitconfig
